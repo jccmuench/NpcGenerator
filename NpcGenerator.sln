@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpcGenerator", "NpcGenerator\NpcGenerator.csproj", "{F6EB87A6-EC1C-4671-A1E0-C320312FB317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{D2DAABDB-F67C-4F74-8DF0-829BCDD7CB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6EB87A6-EC1C-4671-A1E0-C320312FB317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EB87A6-EC1C-4671-A1E0-C320312FB317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EB87A6-EC1C-4671-A1E0-C320312FB317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EB87A6-EC1C-4671-A1E0-C320312FB317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DAABDB-F67C-4F74-8DF0-829BCDD7CB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DAABDB-F67C-4F74-8DF0-829BCDD7CB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DAABDB-F67C-4F74-8DF0-829BCDD7CB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DAABDB-F67C-4F74-8DF0-829BCDD7CB96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
